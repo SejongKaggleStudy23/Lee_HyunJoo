@@ -3,8 +3,8 @@
 
 | week | cource contents | video | link |isDone|
 |:----:|:----:|:----:|:----:|:----:|
-|1| 인공지능 개요 | [인공지능](https://youtu.be/o_nrr0ZnvCg)| |✅|
-|2| 데이터 전처리 | [기계학습](https://youtu.be/gVdkxfYQtG0)|[link](kaggleStudy_week02.ipynb)|✅|
+|1| 인공지능 개요 | [인공지능](https://youtu.be/o_nrr0ZnvCg)|[colab](https://colab.research.google.com/drive/18ohzjIqGuQgOlrkng5c-fYS5YB4JAbOI?usp=sharing)|✅|
+|2| 데이터 전처리 | [기계학습](https://youtu.be/gVdkxfYQtG0)|[colab](https://colab.research.google.com/drive/1OrGK2UgF8dNQNMc5tCEOW8SnhoiyVb_c?usp=sharing)|✅|
 |3| KNN | [기계학습](https://youtu.be/siYSp7pnHDA)|[colab](https://colab.research.google.com/drive/14JjXIyf_iggMWGCMO1a9n1tNv07n2S-T?usp=sharing), [colab](https://colab.research.google.com/drive/12sGyJna4qgIyY2soWypI9W44JKSgqcNW?usp=sharing), [kaggle](https://www.kaggle.com/uhhyunjoo/diabetes-kneighborsclassifier)|✅|
 |4| 로지스틱 회귀 분류 | [기계학습](https://youtu.be/uT3hiE7xUtE)|
 |5| 판별 분석 | [기계학습](https://youtu.be/geIlsP8aPvg)|
