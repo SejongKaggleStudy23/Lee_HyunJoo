@@ -8,9 +8,9 @@
 |3| KNN | [기계학습](https://youtu.be/siYSp7pnHDA)|[colab](https://colab.research.google.com/drive/14JjXIyf_iggMWGCMO1a9n1tNv07n2S-T?usp=sharing), [colab](https://colab.research.google.com/drive/12sGyJna4qgIyY2soWypI9W44JKSgqcNW?usp=sharing), [kaggle](https://www.kaggle.com/uhhyunjoo/diabetes-kneighborsclassifier)|✅|
 |4| 로지스틱 회귀 분류 | [기계학습](https://youtu.be/uT3hiE7xUtE)|[colab](https://colab.research.google.com/drive/1GWlEPCaRse9mYMs06EFcK7B3O1nhv38y?usp=sharing)
 |5| 판별 분석 | [기계학습](https://youtu.be/geIlsP8aPvg)|[colab](https://colab.research.google.com/drive/18dEX_28w18K1IKGLu2d39kQWLtm1iXUn?usp=sharing)|✅|
-|6| 의사 결정 나무 | [기계학습](https://youtu.be/CC96qKl6etU)|
-|7| SVM | [기계학습](https://youtu.be/7kvkkjkloKQ)|
-|8| 군집화 | [기계학습](https://youtu.be/gGX9YwRcvQc)|
+|6| 의사 결정 나무 | [기계학습](https://youtu.be/CC96qKl6etU)|[kaggle](https://www.kaggle.com/uhhyunjoo/iris-with-decisioontreeclassifier)|✅|
+|7| SVM | [기계학습](https://youtu.be/7kvkkjkloKQ)|[kaggle](https://www.kaggle.com/uhhyunjoo/iris-with-linear-svm)|✅|
+|8| 군집화 | [기계학습](https://youtu.be/gGX9YwRcvQc)||✅|
 |9| 차원 축소 | [기계학습](https://youtu.be/M_0Lcw2yAM0)|
 |10| 교차 검증 | [기계학습](https://youtu.be/P8-1F5Z1050)|
 |11| 선형 회귀 | [인공지능](https://youtu.be/4pKWmvUY3FE)|
